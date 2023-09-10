@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Toffern96
-- 👀 I’m interested to learn new things.
+- 👀 I’m interested to learn Java, Js, SQL, HTML and CSS.
 - 🌱 I’m currently studying at USN (University of South-Eastern Norway).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... christopher@westergren.no
